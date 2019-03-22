@@ -28,4 +28,5 @@ More information about the microsoft dataset can be found in the module 8 descri
 10. module 8.R: Association Rules
 
 **All the above R files have a corresponding description document for them.
-Finally, the ModelPerformanceEvaluation document reports the performance of the Naive Bayes implementation.**
+Finally, the ModelPerformanceEvaluation document reports the performance of the Naive Bayes implementation.
+The ComparisonBetweenAlgorithms 1 & 2 documents have a good comparison between the algorithms based on my projects.**
